@@ -4,7 +4,7 @@ const userInput = document.getElementById("user-input");
 const articleContent = document.getElementById("article-content");
 const articleSection = document.getElementById("article-section");
 const newChatBtn = document.getElementById("new-chat-btn");
-
+// 백엔드 주소
 
 // Create a message bubble
 function createMessageBubble(content, sender = "user") {
